@@ -1,0 +1,71 @@
+html,ul,li,body{border:0;margin:0;padding:0;}
+ul,li{list-style:none;}
+body{	background:url(images/top_bg_stripe.gif) repeat-x;font-size:12px;position:relative;}
+body.search{height:100%;overflow:hidden;position:absolute;width:100%;}
+:focus{outline:none;}
+.relative{position:relative;}
+a{_star:expression(this.onFocus=this.blur());color:#4a6a90;cursor:pointer;outline:none;text-decoration:none;}
+a:hover{color:#004566;cursor:pointer;outline:none;text-decoration:underline;}
+img{-ms-interpolation-mode:bicubic;border:0;}
+form{border:0;margin:0;padding:0;}
+.clear{clear:both;}
+#header{margin:4px auto;overflow:hidden;text-align:center;width:960px;}
+#header_logo{background:url(images/logo.png) no-repeat;display:inline-block;height:123px;margin:40px auto 10px auto;width:262px;}
+#header_link,#header_link_r{
+	top:0;
+	_top:4px;
+	background:url(images/search_bar.gif) no-repeat;
+	color:#ccc;
+	display:inline-block;
+	height:32px;
+	line-height:34px;
+	overflow:hidden;
+	position:absolute;
+	right:89px;
+	text-align:left;
+}
+#header_link{_white-space:nowrap;background-position:-182px -241px;padding:0 20px 0 35px;}
+#header_link a{color:#5A96C8;}
+#header_link_r{background-position:right -241px;width:5px;}
+#search-header #header_link,#search-header #header_link_r{top:4px;}
+#search_outer{background:url(images/search_bar_bg.gif) center repeat-x;height:195px;position:relative;width:100%;}
+#search_inner{margin:0 auto;position:relative;width:676px;}
+#search_tabs a{color:#152A3B;font-size:14px;height:35px;padding:12px 0 0 10px;position:absolute;text-align:center;top:34px;width:112px;}
+#search_tabs .selected{background:url(images/search_bar.gif) no-repeat;height:26px;z-index:99;}
+#search_webdisk{left:0;}
+#search_webdisk.selected{background-position:0 -185px;}
+#search_docs{left:112px;}
+#search_docs.selected{background-position:0 -226px;}
+#search_music{left:224px;}
+#search_music.selected{background-position:0 -266px;}
+#search_video{left:336px;}
+#search_video.selected{background-position:0 -307px;}
+#search_wiki{left:448px;}
+#search_wiki.selected{background-position:0 -347px;}
+#search_bar{background:url(images/search_bar.gif) no-repeat;height:69px;position:relative;text-align:left;top:68px;width:682px;}
+.search_input{border:0;font-family:verdana;font-size:16px;height:20px;left:24px;position:relative;top:23px;width:400px;}
+#search_filters{background:#ccc;height:50px;overflow:hidden;position:absolute;right:145px;top:25px;width:100px;zoom:1;}
+.search_filter{_top:expression('25px');border:1px solid #6494BE;color:#666;position:absolute;right:145px;top:25px;width:100px;}
+#search_submit{background:url(images/search_bar.gif) no-repeat -169px -185px;height:40px;position:absolute;right:15px;top:15px;width:122px;}
+#desc_webdisk,#desc_docs,#desc_music,#desc_video,#desc_wiki{display:none;color:#fff;left:16px;position:absolute;text-align:left;top:154px;}
+#search-result{clear:both;margin:0 auto;text-align:left;width:960px;}
+#search-header{clear:both;overflow:hidden;padding-top:20px;}
+#search-result #header{float:left;margin:30px 0 0;overflow:hidden;text-align:left;width:240px;}
+#search-result #header_logo{background-position:-24px -12px;margin:0;width:240px;}
+#search-result #search_outer{background:none;float:right;height:150px;overflow:hidden;width:676px;}
+#search-result #search_bar{background-position:0 -96px;top:52px;}
+#search-result #search_tabs .selected{background:url(images/search_bar.gif) no-repeat -611px -187px transparent;color:#344669;}
+#search-result #search_tabs a{color:#B9C9D4;top:26px;}
+#content{float:left;width:728px;}
+#cse-search-results{overflow:hidden;}
+#cse-search-results iframe{width:728px;}
+#loading{color:#B9C9D4;margin:10px 0 0 0;text-align:center;}
+#sidebar{float:right;text-align:left;width:230px;}
+#adcol{margin-left:42px;overflow:hidden;width:182px;}
+#adcol li{margin-bottom:15px;}
+#adcol li a{border:1px solid #B9C9D4;display:inline-block;}
+#adcol li a:hover{border:1px solid #3FB0FF;}
+#adcol_h{margin:10px 15px 15px 0;text-align:right;}
+#footer{background:#F5F5F5;font-family:verdana;margin:18px 0 0 0;overflow:hidden;padding:10px 0;text-align:center;width:100%;}
+#footer a{color:#666;margin:0 5px;}
+#copyright{margin:10px 0 0 0;}
