@@ -8,7 +8,7 @@
 	  		<span class="link"><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=GnZzcX94f257WmtrNHl1dw">联系站长</a></span> 
 	  		<span class="link"><a target="_blank" href="http://www.askform.cn/103969-202198.aspx">提意见</a></span>
 	 	</div> 
-		<div id="copyright"> Copyright &copy; 2013 <a target="_blank" href="http://www.likebeta.com">likebeta.com</a> All rights reserved.本站由 <a target="_blank" href=" http://www.webluker.com/">Webluker</a>提供CDN服务</div> 
+		<div id="copyright"> Copyright &copy; 2015 <a target="_blank" href="http://www.likebeta.com">likebeta.com</a> All rights reserved.本站由 <a target="_blank" href=" http://www.webluker.com/">Webluker</a>提供CDN服务</div> 
    </div> 
    <div style="display:none"><script src="http://s21.cnzz.com/stat.php?id=2979287&web_id=2979287" type="text/javascript"></script></div>
 </div>
