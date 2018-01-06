@@ -24,7 +24,7 @@
 <!-- google ad -->
 <div style="text-align:center;">
 	<script type="text/javascript">/*336*280,创建于2011-8-24*/ var cpro_id = 'u585646';</script>
-	<script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+	<script src="//cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
 	<span style="width:45px;display:inline-block"></span>
 	<script type="text/javascript"><!--
 		google_ad_client = "ca-pub-7145062453308929";
@@ -34,7 +34,7 @@
 		google_ad_height = 280;
 	//-->
 	</script>
-	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 </div>
 <!-- google ad end -->
 <?php include_once('links.php');?>

@@ -10,5 +10,5 @@
 	 	</div> 
 		<div id="copyright"> Copyright &copy; 2015 <a target="_blank" href="http://www.likebeta.com">likebeta.com</a> All rights reserved.本站由 <a target="_blank" href=" http://www.webluker.com/">Webluker</a>提供CDN服务</div> 
    </div> 
-   <div style="display:none"><script src="http://s21.cnzz.com/stat.php?id=2979287&web_id=2979287" type="text/javascript"></script></div>
+   <div style="display:none"><script src="//s21.cnzz.com/stat.php?id=2979287&web_id=2979287" type="text/javascript"></script></div>
 </div>

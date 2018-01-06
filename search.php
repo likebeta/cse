@@ -35,7 +35,7 @@
 				google_ad_height = 90;
 				//-->
 			</script>
-			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+			<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 		</div><!-- google ad end -->
 		<div id="cse-search-results">
 			<div id="loading">稍等，正在很用力地帮你找东西……</div>
@@ -47,7 +47,7 @@
 		  var googleSearchDomain = "www.google.com";
 		  var googleSearchPath = "/cse";
 		</script>
-		<script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
+		<script type="text/javascript" src="//www.google.com/afsonline/show_afs_search.js"></script>
 		<script type="text/javascript"> 
 			setTimeout(function(){
 				g("loading").style.display="none";
@@ -65,7 +65,7 @@
 			<script type="text/javascript">
 				var cpro_id = 'u579679';
 			</script>
-			<script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+			<script src="//cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
 		</div> 
 	</div> 
 </div><!--search-result--> 
