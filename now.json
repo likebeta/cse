@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "search",
+    "name": "cse",
     "scope": "messycode",
     "builds": [
         { "src": "*.php", "use": "now-php" },
@@ -13,5 +13,5 @@
         { "handle": "filesystem" },
         { "src": "/.*", "status": 404, "dest": "/404.html" }
     ],
-    "alias": ["search.ixxoo.me", "search.messycode.now.sh"]
+    "alias": ["search.ixxoo.me"]
   }
