@@ -10,7 +10,7 @@ function g(id) {
 }
 function showSearchBg(bShow) {
 	if (bShow) {
-		g("q").style.background = "#FFFFFF url(images/google_custom_search_watermark.gif) left no-repeat";
+		g("q").style.background = "#FFFFFF url(asset/images/google_custom_search_watermark.gif) left no-repeat";
 	} 
 	else {
 		g("q").style.background = "none";

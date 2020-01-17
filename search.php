@@ -9,8 +9,8 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 	
 	<meta name="description" content="尝鲜搜索 是一个专业的网络硬盘文件资源搜索引擎，可以搜索如 DBank搜索，115，新浪爱问等资源丰富的网盘，另外还提供在线文档、PDF电子书等搜索功能……" /> 
 	<meta name="keywords" content="下载,网盘,网盘搜索,网络硬盘,共享,文档,DBank搜索,115搜索,PDF,小说,电子书,杂志,动漫,BT,游戏" /> 
-	<link href="style.css" rel="stylesheet" type="text/css" /> 
-	<link rel="shortcut icon" href="images/favicon.ico" />
+	<link href="asset/style.css" rel="stylesheet" type="text/css" /> 
+	<link rel="shortcut icon" href="favicon.ico" />
 </head> 
 <body>	
 <div id="search-result"> 

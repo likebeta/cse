@@ -1,0 +1,17 @@
+{
+    "version": 2,
+    "name": "search",
+    "scope": "messycode",
+    "builds": [
+        { "src": "*.php", "use": "now-php" },
+        { "src": "asset/*", "use": "@now/static" },
+        { "src": "asset/images/*", "use": "@now/static" },
+        { "src": "*.html", "use": "@now/static" },
+        { "src": "*.ico", "use": "@now/static" }
+    ],
+    "routes": [
+        { "handle": "filesystem" },
+        { "src": "/.*", "status": 404, "dest": "/404.html" }
+    ],
+    "alias": ["search.ixxoo.me", "search.messycode.now.sh"]
+  }
