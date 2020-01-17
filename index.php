@@ -14,7 +14,7 @@
 </head> 
 <body>	
 <?php include_once('header.php');?>
-<script type="text/javascript" src="asset/common.js"></script> 
+<script type="text/javascript" src="asset/common.js"></script>
 <script type="text/javascript"> 
 	var isIE = !-[1,];
 	if(isIE){g("hl").value="zh-TW";}

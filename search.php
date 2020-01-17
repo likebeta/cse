@@ -16,13 +16,13 @@
 <div id="search-result"> 
 	<div id="search-header"> 
 		<?php include_once('header.php');?>
- 	    <script type="text/javascript" src="common.js"></script> 
+ 	    <script type="text/javascript" src="asset/common.js"></script>
 	    <script type="text/javascript"> 	    
 			var isIE = !-[1,];
 			if(isIE){g("hl").value="zh-TW";}
 			switchTab('<?php echo $var_type;?>');	
 		</script> 
-	    <script type="text/javascript"  src="opensug.js"></script>
+	    <script type="text/javascript"  src="asset/opensug.js"></script>
 	</div>  
 	<div id="content"> 
 	    <!-- google ad -->

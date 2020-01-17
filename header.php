@@ -1,6 +1,6 @@
 <div id="header"> 
 	<a id="header_logo" href="./" title="尝鲜搜索 - 首页"></a> 
-	<div id="header_link"><a target="_blank" href="http://www.ixxoo.me">likebeta旗下网站</a>&nbsp;&nbsp;|&nbsp;&nbsp;站长：<a target="_blank" href="http://t.qq.com/likebeta">likebeta</a></div> 
+	<div id="header_link"><a target="_blank" href="https://www.ixxoo.me">likebeta旗下网站</a>&nbsp;&nbsp;|&nbsp;&nbsp;站长：<a target="_blank" href="http://t.qq.com/likebeta">likebeta</a></div> 
 	<div id="header_link_r"></div> 
 </div>
 <div id="search_outer"> 
