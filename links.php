@@ -9,5 +9,5 @@
 	 	</div> 
 		<div id="copyright"> Copyright &copy; 2020 <a target="_blank" href="https://www.likebeta.com">likebeta.com</a> All rights reserved</div> 
    </div> 
-   <div style="display:none"><script src="//s21.cnzz.com/stat.php?id=2979287&web_id=2979287" type="text/javascript"></script></div>
+   <div style="display:none"><script type="text/javascript" src="//tajs.qq.com/stats?sId=66540790" charset="utf-8"></script></div>
 </div>
